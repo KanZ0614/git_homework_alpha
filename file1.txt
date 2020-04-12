@@ -1,2 +1,6 @@
 암거나 치자
+<<<<<<< HEAD
 subsub
+=======
+subsubsss
+>>>>>>> origin/sub
